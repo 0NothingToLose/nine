@@ -1,0 +1,52 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/jta.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/gesoftJavaDevlopeTwo.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/xerces-2.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/javax.resource.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.29.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/commons-beanutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/struts.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/commons-validator.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/commons-digester.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/ehcache-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/jakarta-oro.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/proxool-0.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/dom4j-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/concurrent-1.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/jdbc2_0-stdext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/commons-fileupload-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/jaas.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/jaxen-1.1-beta-4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/jspSmartUpload.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/swarmcache-1.0rc2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/commons-io-2.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/msutil.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/jcommon-0.9.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/jxl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/javax.servlet.jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/oscache-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/log4j-1.2.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/bctest-jdk18on-173.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/javax.ejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/bcprov-jdk18on-173.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/commons-collections-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/javax.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/msbase.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/mssqlserver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/javax.jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/xml-apis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/bctls-jdk18on-173.zip!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/fileweb_war_exploded/WEB-INF/lib/jacc-1_0-fr.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

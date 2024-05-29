@@ -1,0 +1,52 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/bcprov-jdk18on-173.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jacc-1_0-fr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ehcache-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jta.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-digester.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xml-apis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.ejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/struts.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/msutil.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxen-1.1-beta-4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gesoftJavaDevlopeTwo.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-8.0.29.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bctest-jdk18on-173.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jxl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mssqlserver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-validator.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-2.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/proxool-0.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/concurrent-1.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta-oro.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.resource.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/oscache-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xerces-2.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bctls-jdk18on-173.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcommon-0.9.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/swarmcache-1.0rc2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaas.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-fileupload-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dom4j-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jspSmartUpload.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jdbc2_0-stdext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-beanutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/msbase.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet.jsp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
